@@ -9,6 +9,7 @@ Clips, ([home](http://clipsrules.sourceforge.net/)), was created in 1985 at NASA
 
 #### CLIPS Syntax Highlighter
 Sublime Package for Prolog: https://github.com/psicomante/CLIPS-sublime
+
 Used filename extension: *.clp, *.clips
 
 ### Prolog
@@ -27,4 +28,5 @@ more information: (http://staff.science.uva.nl/~ulle/teaching/prolog/prolog.pdf)
 
 #### Prolog Syntax Highlighter
 Sublime Package for Prolog: https://github.com/alnkpa/sublimeprolog
+
 Used filename extension: *.pro
