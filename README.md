@@ -5,7 +5,7 @@ Artificial Intelligence Laboratory: CLIPS and PROLOG projects
 
 ### CLIPS
 
-Clips, ([home](http://clipsrules.sourceforge.net/)), was created in 1985 at NASA's Johnson Space Center. It is a productive development and delivery expert system tool which provides a complete environment for the construction of rule and/or object based expert systems. 
+Clips, ([home](http://clipsrules.sourceforge.net/)), was created in 1985 at NASA's Johnson Space Center. It is a productive development and delivery expert system tool which provides a complete environment for the construction of rule and/or object based expert systems.
 
 ### Prolog
 
