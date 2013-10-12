@@ -1,0 +1,1008 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"defmodule"
+			],
+			[
+				"refer",
+				"referer_site"
+			],
+			[
+				"correc",
+				"correct_ref"
+			],
+			[
+				"reci",
+				"recipient_mail"
+			],
+			[
+				"user",
+				"user_hash"
+			],
+			[
+				"SEND",
+				"SENDGRID_TEMPLATES"
+			],
+			[
+				"details",
+				"details_hash"
+			],
+			[
+				"restu",
+				"restaurant_phone"
+			],
+			[
+				"det",
+				"details_hash"
+			],
+			[
+				"rest",
+				"restaurants_array"
+			],
+			[
+				"mail_",
+				"mail_params"
+			],
+			[
+				"new_",
+				"new_print_string"
+			],
+			[
+				"te",
+				"template_name"
+			],
+			[
+				"test",
+				"test_function"
+			],
+			[
+				"mytable",
+				"mytable_mail"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"attac",
+				"attachment"
+			],
+			[
+				"att",
+				"attachment_object"
+			],
+			[
+				"Notifier",
+				"NotifierGroupon"
+			],
+			[
+				"resta",
+				"restaurant_test"
+			],
+			[
+				"detail",
+				"details_hash"
+			],
+			[
+				"mail",
+				"mail_params"
+			],
+			[
+				"dataV",
+				"dataValueNew"
+			],
+			[
+				"data",
+				"dataValueNew"
+			],
+			[
+				"bg",
+				"bg_grey"
+			],
+			[
+				"prov_style_",
+				"prov_style_percent"
+			],
+			[
+				"prov_s",
+				"prov_style_total"
+			],
+			[
+				"prov",
+				"prov_style_label"
+			],
+			[
+				"prov_",
+				"prov_style_label"
+			],
+			[
+				"to",
+				"to_f"
+			],
+			[
+				"per",
+				"percent"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Pos",
+				"Post"
+			],
+			[
+				"delete",
+				"deleted_res"
+			],
+			[
+				"delet",
+				"deleted_by"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"reaso",
+				"reason_code"
+			],
+			[
+				"dele",
+				"deleted_res"
+			],
+			[
+				"rea",
+				"reason_code"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"fli",
+				"flight_seats"
+			],
+			[
+				"san",
+				"sanvalentinoEnabled"
+			],
+			[
+				"has",
+				"hasSanValentino"
+			],
+			[
+				"eventi",
+				"eventi-proposte"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/roberto/Documents/Personal/PerlCorso/6_hellofile_argv.pl",
+			"settings":
+			{
+				"buffer_size": 400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roberto/Documents/Personal/PerlCorso/7_varscal.pl",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage",
+			"settings":
+			{
+				"buffer_size": 6866,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/AAAPackageDev/Support/JSON to Property List.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/roberto/Documents/Personal/PerlCorso/1_helloworld.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/hellofile.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/name_input",
+		"/Users/roberto/Documents/Personal/PerlCorso/helloworld.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/helloworld_shell.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/hellovar.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/hellovar_stdin.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/input_file",
+		"/Users/roberto/Documents/Personal/University/SistRV/unity3D-lessons/lesson4/Assets/FaceTrigger.js",
+		"/Users/roberto/Documents/Personal/University/SistRV/unity3D-lessons/lesson4/Assets/DiceValue.js",
+		"/Users/roberto/Desktop/M2H_Networking_Tutorial/M2H_Networking_Tutorial/Assets/Tutorial 2/Tutorial_2A1.js",
+		"/Users/roberto/Desktop/M2H_Networking_Tutorial/M2H_Networking_Tutorial/Assets/Tutorial 1/Connect.js",
+		"/Users/roberto/Documents/Personal/University/aamcg/README.md",
+		"/Users/roberto/Documents/Personal/University/aamcg/Assets/src/shared/NetworkManager.cs",
+		"/Users/roberto/Documents/Personal/University/aamcg/Assets/src/shared/MainMenuGui.cs",
+		"/Users/roberto/Documents/Personal/University/aamcg/Assets/src/server/PlayerManager.cs",
+		"/Users/roberto/Documents/Personal/University/aamcg/Assets/src/client/C_PlayerManager.cs",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/1_main.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/01.restaurant.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/labirinth_astar.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/logistics_system/logistics-rules.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/blocks_world/BlockDepthSimple.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/2_initial_map.clp",
+		"/Users/roberto/Documents/Personal/University/aamcg/.gitignore",
+		"/Users/roberto/Documents/Personal/Code/desprite/ta_ratings.css",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/blocks_world/OperatoriMondoDeiBlocchi.doc",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/lib/Manifest.txt",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/lib/helloworld.java",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/logistics_system/logistics-rule-v1.1",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/4_actual_map.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/3_env.clp",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.JSON-tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/PHP/PHP.JSON-tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/PHP/PHP.tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/.gitignore",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/.gitignore",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/5_agent.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/software/Monitor1213/1_main.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/software/Monitor1213/2_initial_map.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/software/Monitor1213/5_agent.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/docs/InitMap.txt",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/docs/ActualMap.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/software/Monitor1213/3_env.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/software/Monitor1213/4_actual_map.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/software/Monitor1213/2_initial_map-12-42-33.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/3_agent.clp",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/Sass/package-metadata.json",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/README.md",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/Sass/README.md",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/docs/CodiceMonitor2013_V6.clp",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/2_env.clp",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/clips.json",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/clips.tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/LICENSE.md",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage1",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/clips.plist",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage.cache",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/routes.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/partner.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_created_admin.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/public/partners/restaurants_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/script/delayed_job",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/public/mytableweb/template1_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/public/mytableweb/template2_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/environments/production.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/environments/development.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/mailing.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/notifier.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/restaurant.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_reviews_notice.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/mailing/mailing_user.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/mailing_test.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/public/groupon/deals_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_reservation_user.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/mailing/mailing_groupon.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/environment.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/mailing/mailing_mytable.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/test_recipients.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/test_recipients.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/user.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/mailing/mailing_restaurant.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/schedule.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/backoffice/groupon/deals_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/contract_agreement.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/initializers/postageapp.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/vendor/gems/will_paginate-2.3.14/lib/will_paginate.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/gotomytable_popup.haml",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/admin/restaurants/reservations_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/admin/restaurants_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/authorization_rules.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/layouts/admin_restaurants.haml",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/admin/popup_controller.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/popup/gotomytable.popup.haml",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/reservations/groupon_alert.popup.haml",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/reservations/index.haml",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/gotomytable.popup.haml",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_multi_cancel.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_multi_cancel.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/.gitignore",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/Ruby on Rails.sublime-settings",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_reminder_restaurant.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_reminder_user.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/vendor/gems/whenever-0.4.2/lib/whenever/outputs/cron.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_reservation_user.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/log/development.log",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/invoice.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/request_config_constraints_admin.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/activation_instructions_mobile.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/notifier_groupon.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/lib/groupon_report.rb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/deleted_invoice_restaurant.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/deleted_invoice_restaurant.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_alert.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_alert.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_daily_report.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_daily_report.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/iframe_new_user_restaurant.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/iframe_new_user_restaurant.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_awards_notice.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_awards_notice.text.plain.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_followers_notice.text.html.erb",
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_followers_notice.text.plain.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			"<open folders>",
+			"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS",
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open files>,<open folders>",
+			"/Users/robertopesando/Documents/Lavoro/Progetti/MyTable",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"localPlay",
+			"  ",
+			" #",
+			" ",
+			"variable",
+			"arit",
+			"go",
+			"stampa ",
+			"GetAgenda",
+			"Eval",
+			"argumentexception",
+			"(declare (salience 10))",
+			"partner_name",
+			"PARTNER_INVITATION_CODE",
+			"generated_by",
+			"ta",
+			"TRIPADVISOR",
+			"partner",
+			"rating",
+			"ratings",
+			"template1",
+			"action_mailer.raise_delivery_errors",
+			"extend(",
+			"extend.",
+			"attachments",
+			"restaurant_activated_admin",
+			":restaurant_activated_admin",
+			"groupon_reservation_created_user",
+			"new_reviews_notice",
+			"hanno scritto delle nuove recensioni!",
+			"trimmer",
+			"field_trimmer",
+			"<%= if",
+			"TIME init_index:",
+			"init_mail_master",
+			":recipients]",
+			"    ",
+			"init_recipients_with_params",
+			"init_groupon_reminder_recipients_with_params",
+			"init_reminder_recipients_with_params",
+			"init_reservation_with_rating_2",
+			"init_reservation_without_rating_2",
+			"[07/05/13 09:39:36] Roberto Pesando: ",
+			"[07/05/13 09:43:54] Roberto Pesando: ",
+			"mail[:recipients]",
+			"init_reservation_with_rating_2",
+			":recipients] = {}",
+			".all.",
+			".all",
+			"User.all",
+			"ew_awards_notice",
+			"new_award",
+			"clone",
+			"init_mail_restaurants",
+			"[:recipients] = {}",
+			"recipients",
+			"recipients = {}",
+			"recipients",
+			"groupon_reservation_created_user",
+			"- ",
+			"sendmail",
+			"config_after_deals_restaurant",
+			"closing_new_groupon",
+			"notify_new_ratings",
+			"contract_agreement_user",
+			"welcome",
+			"mail_logger",
+			"required_params",
+			"paperclip",
+			"nokogiri",
+			"		=javascript_include_tag 'admin/global.js'\n",
+			"gotomyta",
+			"groupon_alert",
+			"mytable100",
+			"groupon_alert",
+			"gotomytable_popup",
+			"groupon_alert",
+			"multibooking",
+			"groupon_alert",
+			"edit_admin_restaurant_path",
+			"multibook",
+			":format",
+			"groupon_alert",
+			"groupon_alert.popup",
+			"groupon_alert",
+			"check_can_edit_rooms",
+			"schema information",
+			"annotate",
+			"restaurants_data",
+			"remind_all_re",
+			"params",
+			"reminder_",
+			"reserva",
+			"init_mail_user",
+			"reminder",
+			"reservation_url",
+			"reservation_reminder_restaurant",
+			"reservation_reminder_user",
+			"remind_all_users",
+			"reservations_data.each",
+			"reservations_data.each do |params|",
+			"#reservations_data.each do |params|",
+			"\\{\\{( )*/([a-zA-Z0-9]|_)*( )*\\}\\}",
+			"\\{\\{( )*\\?(([a-zA-Z0-9]|_)*)( )*\\}\\}",
+			"\\{\\{( )*(([a-zA-Z0-9]|_)*)( )*\\}\\}",
+			"\\{\\{( )*/([a-zA-Z0-9]|_)*( )*\\}\\}",
+			"\\{\\{( )*\\?(([a-zA-Z0-9]|_)*)( )*\\}\\}",
+			"\\{\\{( )*(([a-zA-Z0-9]|_)*)( )*\\}\\}",
+			"groupon_cancel_reservation_user",
+			"reservation_created_admin",
+			"test_se",
+			"\\n",
+			"alert_create_closing",
+			"alert_update_closing",
+			"alert_destroy_closing",
+			"reminder_mytable_query",
+			"groupon_reminder_user",
+			"reservation_reminder_restaurant",
+			":groupon_reservation_reminder_user",
+			"+",
+			"init_groupon_reminder_recipients_with_params",
+			"if Mailing.required_params( params, [",
+			":deal_fake_id",
+			":deal_fake_id,",
+			"mail[:headers][:subject] = I18n.t('mailing.subject.groupon_reservation_reminder_user')",
+			"+",
+			"if restaurants_data.size > 400",
+			"+"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"<% end %>",
+			"<% if @\\2 %>",
+			"<%= @\\2 %>",
+			"<% end %>",
+			"<%= @\\2 %>",
+			"<%= @\\1 %>",
+			"<%= @\\0 %>",
+			"<%= yield %>",
+			"<% if !@\\1 %>",
+			"<% end %>",
+			"<% if @\\1 %>",
+			"<%= @\\1 %>",
+			"<p class=\"separator\" style=\"margin-bottom: 10px;margin-top: 10px;\">-----</p>",
+			"<%= @\\1 %>",
+			"<%= yield %>",
+			"<%= @\\1 %>",
+			"<%= yield %>",
+			"<%= @\\1 %>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/roberto/Documents/Personal/PerlCorso/6_hellofile_argv.pl",
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/roberto/Documents/Personal/PerlCorso/7_varscal.pl",
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage",
+					"settings":
+					{
+						"buffer_size": 6866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6217,
+								6217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4313.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.aaa_package_dev":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"restaurant_controller",
+				"app/controllers/public/partners/restaurants_controller.rb"
+			],
+			[
+				"partn",
+				"app/models/partner.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"partner",
+				"app/models/partner.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"pro",
+				"config/environments/production.rb"
+			],
+			[
+				"",
+				"app/models/mailing.rb"
+			],
+			[
+				"mai",
+				"app/models/mailing.rb"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"notifie",
+				"app/models/notifier.rb"
+			],
+			[
+				"noti",
+				"app/models/notifier.rb"
+			],
+			[
+				"groupon_cancel_reservation_user.text.htm",
+				"app/views/notifier/groupon_cancel_reservation_user.text.html.erb"
+			],
+			[
+				"mailing_te",
+				"app/models/mailing_test.rb"
+			],
+			[
+				"notif",
+				"app/models/notifier.rb"
+			],
+			[
+				"mailing_u",
+				"app/models/mailing/mailing_user.rb"
+			],
+			[
+				"ma",
+				"app/models/mailing.rb"
+			],
+			[
+				"mailin",
+				"app/models/mailing_test.rb"
+			],
+			[
+				"mailing_user",
+				"app/models/mailing/mailing_user.rb"
+			],
+			[
+				"env",
+				"config/environment.rb"
+			],
+			[
+				"sche",
+				"config/schedule.rb"
+			],
+			[
+				"no",
+				"app/models/notifier.rb"
+			],
+			[
+				"mailing",
+				"app/models/mailing_test.rb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"schedul",
+				"config/schedule.rb"
+			],
+			[
+				"resta",
+				"app/models/restaurant.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"not",
+				"app/models/notifier.rb"
+			],
+			[
+				"notifi",
+				"app/models/notifier.rb"
+			],
+			[
+				"mailingte",
+				"app/models/mailing_test.rb"
+			],
+			[
+				"mailing_my",
+				"app/models/mailing/mailing_mytable.rb"
+			],
+			[
+				"pos",
+				"config/initializers/postageapp.rb"
+			],
+			[
+				"will_paginate",
+				"vendor/gems/will_paginate-2.3.14/lib/will_paginate.rb"
+			],
+			[
+				"res",
+				"app/models/restaurant.rb"
+			],
+			[
+				"author",
+				"config/authorization_rules.rb"
+			],
+			[
+				"groupon_alert",
+				"app/views/admin/restaurants/reservations/groupon_alert.popup.haml"
+			],
+			[
+				"notifier",
+				"app/models/notifier.rb"
+			],
+			[
+				"maili",
+				"app/models/mailing.rb"
+			],
+			[
+				"mailing_re",
+				"app/models/mailing/mailing_restaurant.rb"
+			],
+			[
+				"mail_us",
+				"app/models/mailing/mailing_user.rb"
+			],
+			[
+				"en",
+				"config/environment.rb"
+			],
+			[
+				"schedu",
+				"config/schedule.rb"
+			],
+			[
+				"cron",
+				"vendor/gems/whenever-0.4.2/lib/whenever/outputs/cron.rb"
+			],
+			[
+				"posta",
+				"config/initializers/postageapp.rb"
+			],
+			[
+				"post",
+				"config/initializers/postageapp.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"mail",
+				"app/models/mailing.rb"
+			],
+			[
+				"e",
+				"config/environment.rb"
+			],
+			[
+				"field",
+				"lib/field_trimmer.rb"
+			],
+			[
+				"postage",
+				"config/initializers/postageapp.rb"
+			],
+			[
+				"groupo",
+				"lib/groupon_report.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"findernew",
+				"app/views/public/finders/new.haml"
+			],
+			[
+				"findercontr",
+				"app/controllers/public/plugins/finder_controller.rb"
+			],
+			[
+				"findercon",
+				"app/controllers/public/finders_controller.rb"
+			],
+			[
+				"databa",
+				"config/database.yml"
+			],
+			[
+				"adminoffer_",
+				"MyTable/app/controllers/admin/restaurants/offers_controller.rb"
+			],
+			[
+				"mailing_myta",
+				"MyTable/app/models/mailing/mailing_mytable.rb"
+			],
+			[
+				"adminrestauranteventcontr",
+				"MyTable/app/controllers/admin/restaurants/events_controller.rb"
+			],
+			[
+				"events",
+				"MyTable/app/controllers/public/events_controller.rb"
+			],
+			[
+				"data",
+				"MyTable-ESP/config/database.yml"
+			],
+			[
+				"dele",
+				"MyTable/app/models/deleted_reservation.rb"
+			],
+			[
+				"it.yml",
+				"MyTable/config/locales/it_activerecord.yml"
+			],
+			[
+				"en.ym",
+				"blogRails3/config/locales/en.yml"
+			],
+			[
+				"it.",
+				"MyTable/config/locales/it.yml"
+			],
+			[
+				"develop",
+				"MyTable/config/environments/development.rb"
+			],
+			[
+				"delete",
+				"MyTable/app/models/deleted_reservation.rb"
+			],
+			[
+				"memcac",
+				"MyTable/db/migrate/20110913111103_create_contract_addons.rb"
+			],
+			[
+				"en.",
+				"coconut/config/locales/en.yml"
+			],
+			[
+				"database",
+				"tickets/config/database.yml"
+			],
+			[
+				"usercontr",
+				"MyTable/app/controllers/backoffice/users_controller.rb"
+			],
+			[
+				"restau",
+				"public/javascripts/public/restaurants.js"
+			],
+			[
+				"sorter",
+				"public/javascripts/public/plugins/filter.sorter.js"
+			],
+			[
+				"enve",
+				"config/environment.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true
+}
