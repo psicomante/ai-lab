@@ -7,6 +7,10 @@ Artificial Intelligence Laboratory: CLIPS and PROLOG projects
 
 Clips, ([home](http://clipsrules.sourceforge.net/)), was created in 1985 at NASA's Johnson Space Center. It is a productive development and delivery expert system tool which provides a complete environment for the construction of rule and/or object based expert systems.
 
+#### CLIPS Syntax Highlighter
+Sublime Package for Prolog: https://github.com/psicomante/CLIPS-sublime
+Used filename extension: *.clp, *.clips
+
 ### Prolog
 
 Prolog (programming in logic) is one of the most widely used programming languages
@@ -21,6 +25,6 @@ numerical algorithms.
 
 more information: (http://staff.science.uva.nl/~ulle/teaching/prolog/prolog.pdf)
 
-## Details on Prolog
+#### Prolog Syntax Highlighter
 Sublime Package for Prolog: https://github.com/alnkpa/sublimeprolog
 Used filename extension: *.pro
