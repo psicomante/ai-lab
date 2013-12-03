@@ -4,8 +4,64 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"constant"
+			],
+			[
+				"world",
+				"worldClipsCode"
+			],
+			[
+				"worl",
+				"worldLength"
+			],
+			[
 				"def",
-				"defmodule"
+				"deftemplate"
+			],
+			[
+				"vac",
+				"vacuumPosition"
+			],
+			[
+				"wor",
+				"worldClipsCode"
+			],
+			[
+				"rand",
+				"randomizeStatus"
+			],
+			[
+				"build",
+				"buildGenericFactById"
+			],
+			[
+				"wo",
+				"worldLength"
+			],
+			[
+				"bui",
+				"buildWallFact"
+			],
+			[
+				"va",
+				"vacuumPosition"
+			],
+			[
+				"chec",
+				"checkARGVs"
+			],
+			[
+				"C",
+				"COMMANDS"
+			],
+			[
+				"sep",
+				"separatorLength"
+			],
+			[
+				"se",
+				"separatorLength"
 			],
 			[
 				"refer",
@@ -184,36 +240,49 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/roberto/Documents/Personal/PerlCorso/6_hellofile_argv.pl",
+			"file": "clips/vacuum_cleaner_world_1d/readme.md",
 			"settings":
 			{
-				"buffer_size": 400,
-				"line_ending": "Unix"
+				"buffer_size": 378,
+				"line_ending": "Unix",
+				"name": "A goal-based agent without any utility function. T"
 			}
 		},
 		{
-			"file": "/Users/roberto/Documents/Personal/PerlCorso/7_varscal.pl",
+			"file": "clips/pattern_matching_02.clp",
 			"settings":
 			{
-				"buffer_size": 228,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage",
-			"settings":
-			{
-				"buffer_size": 6866,
+				"buffer_size": 1206,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/AAAPackageDev/Support/JSON to Property List.sublime-build",
+	"build_system": "Packages/AAAPackageDev/Support/Convert to ....sublime-build",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 87.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
 			[
 				"Package Control: in",
 				"Package Control: Install Package"
@@ -223,7 +292,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 647.0
 	},
 	"console":
 	{
@@ -240,6 +309,39 @@
 	},
 	"file_history":
 	[
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/vacuum_cleaner_world/VacuumSimple.clp",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Syntaxes/CLIPS.JSON-tmLanguage",
+		"/Users/roberto/Desktop/CLIPS.tmbundle/Preferences/Miscellaneous.tmPreferences",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/README.md",
+		"/Users/roberto/Desktop/CLIPS.tmbundle/Syntaxes/CLIPS.JSON-tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/makefile",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/JSON-tmLanguage.sublime-build",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/tmLanguage.sublime-build",
+		"/Users/roberto/Desktop/CLIPS.tmbundle/Syntaxes/CLIPS.tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Syntaxes/Makefile",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/Tomorrow-Night-Eighties.tmTheme",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/plutil.sublime-build",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Preferences/Miscellaneous.tmPreferences",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/vacuum_cleaner_world/VacuumWorldGenerator.rb",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Syntaxes/lessLOL.JSON-tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Main.sublime-menu",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/CLIPS-sublime.sublime-settings",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Syntaxes/CLIPS.tmLanguage",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/Makefile",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/vacuum_cleaner_world/VacuumCleanerWorld.bat",
+		"/Users/roberto/Documents/Personal/University/ai-lab/README.md",
+		"/Users/roberto/Documents/Personal/University/ai-lab/.gitignore",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS-sublime/.gitignore",
+		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/2_initial_map.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/blocks_world/BlockDepthSimple.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/vacuum_cleaner_world/world_map.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/clips/vacuum_cleaner/VacuumSimple.clp",
+		"/Users/roberto/Documents/Personal/University/ai-lab/ailab.sublime-project",
+		"/Users/roberto/Documents/Personal/PerlCorso/7_varscal.pl",
+		"/Users/roberto/Documents/Personal/PerlCorso/6_hellofile_argv.pl",
+		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage",
 		"/Users/roberto/Documents/Personal/PerlCorso/1_helloworld.pl",
 		"/Users/roberto/Documents/Personal/PerlCorso/hellofile.pl",
 		"/Users/roberto/Documents/Personal/PerlCorso/name_input",
@@ -266,8 +368,6 @@
 		"/Users/roberto/Documents/Personal/University/ai-lab/clips/01.restaurant.clp",
 		"/Users/roberto/Documents/Personal/University/ai-lab/clips/labirinth_astar.clp",
 		"/Users/roberto/Documents/Personal/University/ai-lab/clips/logistics_system/logistics-rules.clp",
-		"/Users/roberto/Documents/Personal/University/ai-lab/clips/blocks_world/BlockDepthSimple.clp",
-		"/Users/roberto/Documents/Personal/University/uav-ai-clips/UAV_Modules/2_initial_map.clp",
 		"/Users/roberto/Documents/Personal/University/aamcg/.gitignore",
 		"/Users/roberto/Documents/Personal/Code/desprite/ta_ratings.css",
 		"/Users/roberto/Documents/Personal/University/ai-lab/clips/blocks_world/OperatoriMondoDeiBlocchi.doc",
@@ -336,38 +436,7 @@
 		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/admin/restaurants/reservations_controller.rb",
 		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/admin/restaurants_controller.rb",
 		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/config/authorization_rules.rb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/layouts/admin_restaurants.haml",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/controllers/admin/popup_controller.rb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/popup/gotomytable.popup.haml",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/reservations/groupon_alert.popup.haml",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/reservations/index.haml",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/admin/restaurants/gotomytable.popup.haml",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_multi_cancel.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_multi_cancel.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/.gitignore",
-		"/Users/roberto/Library/Application Support/Sublime Text 2/Packages/User/Ruby on Rails.sublime-settings",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_reminder_restaurant.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/reservation_reminder_user.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/vendor/gems/whenever-0.4.2/lib/whenever/outputs/cron.rb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_reservation_user.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/log/development.log",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/invoice.rb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/request_config_constraints_admin.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/activation_instructions_mobile.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/models/notifier_groupon.rb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/lib/groupon_report.rb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/deleted_invoice_restaurant.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/deleted_invoice_restaurant.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_alert.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_cancel_alert.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_daily_report.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/groupon_daily_report.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/iframe_new_user_restaurant.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/iframe_new_user_restaurant.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_awards_notice.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_awards_notice.text.plain.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_followers_notice.text.html.erb",
-		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/notifier/new_followers_notice.text.plain.erb"
+		"/Users/roberto/Documents/Lavoro/Progetti/MyTable/app/views/layouts/admin_restaurants.haml"
 	],
 	"find":
 	{
@@ -394,6 +463,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"%",
+			"- ",
+			"meta",
+			"name",
+			".d\"",
+			".d",
+			"halt",
+			"goal",
+			"(halt",
+			"maxde",
+			"%",
 			"localPlay",
 			"  ",
 			" #",
@@ -510,18 +590,7 @@
 			"alert_update_closing",
 			"alert_destroy_closing",
 			"reminder_mytable_query",
-			"groupon_reminder_user",
-			"reservation_reminder_restaurant",
-			":groupon_reservation_reminder_user",
-			"+",
-			"init_groupon_reminder_recipients_with_params",
-			"if Mailing.required_params( params, [",
-			":deal_fake_id",
-			":deal_fake_id,",
-			"mail[:headers][:subject] = I18n.t('mailing.subject.groupon_reservation_reminder_user')",
-			"+",
-			"if restaurants_data.size > 400",
-			"+"
+			"groupon_reminder_user"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -558,28 +627,73 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/roberto/Documents/Personal/PerlCorso/6_hellofile_argv.pl",
+					"file": "clips/vacuum_cleaner_world_1d/readme.md",
 					"settings":
 					{
-						"buffer_size": 400,
+						"buffer_size": 378,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								400
+								378,
+								378
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Perl/Perl.tmLanguage"
+							"BracketHighlighterBusy": false,
+							"auto_name": "A goal-based agent without any utility function. T",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -589,53 +703,72 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/roberto/Documents/Personal/PerlCorso/7_varscal.pl",
+					"file": "clips/pattern_matching_02.clp",
 					"settings":
 					{
-						"buffer_size": 228,
+						"buffer_size": 1206,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								142,
-								142
+								363,
+								369
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Perl/Perl.tmLanguage"
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CLIPS-sublime/Syntaxes/CLIPS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/roberto/Library/Application Support/Sublime Text 2/Packages/CLIPS/Syntaxes/CLIPS.tmLanguage",
-					"settings":
-					{
-						"buffer_size": 6866,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6217,
-								6217
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 4313.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -681,6 +814,10 @@
 	"output.exec":
 	{
 		"height": 100.0
+	},
+	"output.package_dev":
+	{
+		"height": 112.0
 	},
 	"replace":
 	{
