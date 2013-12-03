@@ -47,8 +47,6 @@
   ?f <- (vacuum)
   =>
     (halt) ; halt execution
-    ;(retract ?f)
-
 )
 
 ; rule that moves the vacuum to the right cell
@@ -56,14 +54,13 @@
   ?f <- (vacuum (position ?x) (direction right) (steps ?s))
   =>
     ; modify vacuum cleaner position (world.x++) and steps done
-    (
-      modify ?f (position (+ ?x 1)) (steps (+ ?s 1))
-    )
+    ( modify ?f (position (+ ?x 1)) (steps (+ ?s 1)) )
 )
 
 ; rule that moves the vacuum to the left cell
 (defrule move-left
   ?f <- (vacuum (position ?x) (direction left) (steps ?s))
+
   =>
     ; modify vacuum cleaner position (world.x++) and steps done
     (
@@ -88,6 +85,7 @@
   ?f2 <- (wall-left ?)
   ;
   (cell (coord =(- ?x 1)) (status wall) )
+
   =>
     (retract ?f2)
     (assert (wall-left yes))
